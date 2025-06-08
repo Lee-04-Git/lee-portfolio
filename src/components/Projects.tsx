@@ -8,6 +8,8 @@ import codeCuisineImg from "../assets/code-cuisine.jpeg";
 import podcastImg from "../assets/podcast.jpeg";
 import memeGeneratorImg from "../assets/meme_generator.jpeg";
 import taskOrganiserImg from "../assets/task-organiser.jpeg";
+import triviaImg from "../assets/trivia.jpeg";
+
 
 const Projects = () => {
   const featuredProjects = [
@@ -98,6 +100,16 @@ const Projects = () => {
       liveDemo: "https://task-organiser-site.netlify.app",
       sourceCode: "https://github.com/Lee-04-Git/Task-Trek",
     },
+    {
+    id: 9,
+    title: "Trivia Palooza",
+    description:
+      "An engaging trivia game featuring 6 cards, each with 20 unique questions.",
+    image: triviaImg,
+    technologies: ["React", "JavaScript", "CSS3"],
+    liveDemo: "https://trivia-palooza.netlify.app/",
+    sourceCode: "https://github.com/Lee-04-Git/trivia-palooza",
+  },
   ];
 
   return (

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Follow these steps:
 
 ```sh
@@ -23,3 +24,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+=======
+# lee-portfolio
+>>>>>>> c90b46950609865a40c49232a8d121eae4eb39de

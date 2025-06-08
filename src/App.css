@@ -1,0 +1,8 @@
+
+/* Minimal CSS - most styles are now in index.css */
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
